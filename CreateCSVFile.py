@@ -13,7 +13,7 @@ newCSVFileName = 'gtd_converted.csv'
 
 # Data Preparation Function
 def excel_to_csv():
-    filename = config.get('Constants', 'Gtd_filename')
+    filename = config.get('Constants', 'Gtd_filename').strip('""')
     whole = pd.read_excel(filename, encoding='utf-8')
     whole.to_csv(newCSVFileName)
 
