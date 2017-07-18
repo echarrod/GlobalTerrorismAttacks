@@ -55,3 +55,9 @@ Jupyter will start in our default browser (typically running at [http://localhos
 
 ## Further Reading
 - [GTD Codebook](http://www.start.umd.edu/gtd/downloads/Codebook.pdf) - Further information on the GTD data
+
+## Future Work
+- Improve accuracy!
+- Dropdown list to select information about a terrorist attack
+- Plot visualisation of groups classification after PCA/SVD has been applied
+- Better feature selection
