@@ -53,7 +53,7 @@ Jupyter will start in our default browser (typically running at [http://localhos
 
 
 ## Other tools used
-- [Table of Contents (TOC) Generator](https://github.com/minrk/ipython_extensions)
+- [Table of Contents (TOC) Generator](https://github.com/minrk/ipython_extensions#table-of-contents)
 
 ## Further Reading
 - [GTD Codebook](http://www.start.umd.edu/gtd/downloads/Codebook.pdf) - Further information on the GTD data
