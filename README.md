@@ -46,10 +46,8 @@ and launch `jupyter notebook` by executing
 Jupyter will start in our default browser (typically running at [http://localhost:8888/](http://localhost:8888/)), and you can explore the notebooks from here.
 
 ### Steps
-    $ python CreateCSVFile.py
-1) Convert the downloaded xlsx file to a CSV file with the above command
-2) Run through the steps in 'Data Processing.ipynb'
-3) Run through the steps in FeatureExtraction.ipynb
+1) Run through the steps in 'Data Processing.ipynb' - the CSV files will be created as you step through the notebook
+2) Run through the steps in FeatureExtraction.ipynb
 
 
 ## Other tools used
