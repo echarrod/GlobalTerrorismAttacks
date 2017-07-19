@@ -64,3 +64,4 @@ Jupyter will start in our default browser (typically running at [http://localhos
 - Breakdown which features contributed the most to the classification
 - Interactice controls for entering prediction data - dropdown list and explanations for WeaponType, TargetType etc, Text box for Year etc.
 - Split out common functions into separate file
+- Tests! Automated
