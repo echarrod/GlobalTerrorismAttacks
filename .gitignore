@@ -103,3 +103,4 @@ ENV/
 *features.csv
 gtd*.csv
 *.xlsx
+.idea/*
