@@ -58,9 +58,9 @@ Jupyter will start in our default browser (typically running at [http://localhos
 
 ## Future Work
 - Improve accuracy!
-- Dropdown list to select information about a terrorist attack
 - Plot visualisation of groups classification after PCA/SVD has been applied
 - Better feature selection
 - Classifier confidence
 - Breakdown which features contributed the most to the classification
 - Interactice controls for entering prediction data - dropdown list and explanations for WeaponType, TargetType etc, Text box for Year etc.
+- Split out common functions into separate file
